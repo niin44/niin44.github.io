@@ -1,2 +1,2 @@
 Account site
-niin44.github.io
+[Direct link](https://niin44.github.io)
